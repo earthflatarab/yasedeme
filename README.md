@@ -1,3 +1,1 @@
 # yaseedee
-Blog
-Book
